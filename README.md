@@ -54,7 +54,7 @@ A **snowflake schema** was designed with the following structure:
 
 - `Store Dimension`
   - Country
-  - State/Region
+  - State
   - Store
 
 - `Customer Dimension`
